@@ -12,6 +12,7 @@ The core of this project is a fully connected feedforward neural network (FNN) *
 - 🔥 ReLU activation for hidden layers
 - 📊 Softmax activation for output layer (multi-class classification)
 - 🎯 Cross-entropy loss for training
+- 🛡️ L2 Regularization for improved generalization and weight control
 
 All features are coded without external deep learning frameworks to fully understand the mechanics of training deep networks.
 
