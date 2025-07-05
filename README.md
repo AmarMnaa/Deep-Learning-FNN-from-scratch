@@ -18,6 +18,7 @@ All features are coded without external deep learning frameworks to fully unders
 ---
 
 ## 🧪 Experiment Summary
+📝 Note: All experiments were conducted on the MNIST handwritten digits dataset — a widely used benchmark in image classification. It contains 60,000 training images and 10,000 test images of digits (0–9), each of size 28×28 pixels (784 flatten vector).
 
 ### ✅ Without BatchNorm (lambda=0)
 - **Best Batch Size**: `16`
